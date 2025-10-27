@@ -47,7 +47,7 @@ class CarbonAPI:
                 timeout=self._timeout,
                 headers={
                     "Content-Type": "application/json",
-                    "User-Agent": "VISHALMUSIC/CarbonClient",
+                    "User-Agent": "VishaLMusic/CarbonClient",
                 },
             )
         return self._session
