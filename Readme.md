@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://files.catbox.moe/53szdj.jpg" width="90px" style="border-radius: 50%;" />
+        <img src="https://files.catbox.moe/vaf7jq.jpg" width="90px" style="border-radius: 50%;" />
       </td>
       <td>
         <img src="https://readme-typing-svg.herokuapp.com?font=Dark+Bolt&color=00BFFF&width=600&lines=Hey+There,+This+is+Vishal+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F" />
@@ -32,12 +32,12 @@
 
 <p align="center">
   <a href="https://t.me/Its_me_Vishall">
-    <img src="[https://files.catbox.moe/48shlf.jpg](https://files.catbox.moe/vaf7jq.jpg)" width="600">
+    <img src="https://files.catbox.moe/vaf7jq.jpg" width="600">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/VaishalixMusic_Robot"><img src="https://img.shields.io/badge/Try%20Bot-@Shrutimusic_bot-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/VaishalixMusic_Robot"><img src="https://img.shields.io/badge/Try%20Bot-@VaishalixMusic_Robot-blue?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 
@@ -282,7 +282,7 @@ Platform Deploy Link
 ---
 
 <p align="center">
-  <i>✨ SPECIAL THANKS FOR ❤️<a href="https://t.me/CertifiedCoder">JARVIS</a> ✨</i>
+  <i>✨ Made with ❤️ by <a href="https://t.me/Its_me_Vishall">Vishal</a> ✨</i>
 </p>
 
 <!-- ✨ Animated Footer (Bottom) -->
