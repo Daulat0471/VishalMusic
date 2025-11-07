@@ -10,7 +10,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 import config
 from config import AYU, BANNED_USERS, lyrical
 from VISHALMUSIC import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
-from VISHALMUSIC.core.call import JARVIS
+from VISHALMUSIC.core.call import VISHAL
 from VISHALMUSIC.utils import seconds_to_min, time_to_seconds
 from VISHALMUSIC.utils.channelplay import get_channeplayCB
 from VISHALMUSIC.utils.decorators.language import languageCB
@@ -358,7 +358,7 @@ async def play_command(
 
         else:
             try:
-                await JARVIS.stream_call(url)
+                await VISHAL.stream_call(url)
             except NoActiveGroupCall:
                 await mystic.edit_text(_["black_9"])
                 return await app.send_message(
