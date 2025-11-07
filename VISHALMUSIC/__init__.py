@@ -1,4 +1,4 @@
-from VISHALMUSIC.core.bot import JARVIS
+from VISHALMUSIC.core.bot import VISHAL
 from VISHALMUSIC.core.dir import dirr
 from VISHALMUSIC.core.git import git
 from VISHALMUSIC.core.userbot import Userbot
