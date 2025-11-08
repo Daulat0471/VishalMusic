@@ -30,8 +30,7 @@ async def init():
         await fetch_and_store_cookies()
         LOGGER("VISHALMUSIC").info("ʏᴏᴜᴛᴜʙᴇ ᴄᴏᴏᴋɪᴇs ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ ✅")
     except Exception as e:
-        LOGGER("VISHALMUSIC").warning(f"⚠️ᴄᴏᴏᴋɪᴇ ᴇʀʀᴏʀ: {e}")
-
+        LOGGER("VISHALMUSIC").warning(f"⚠️ ᴄᴏᴏᴋɪᴇ ᴇʀʀᴏʀ: {e}")
 
     await sudo()
 
@@ -71,8 +70,26 @@ async def init():
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("VISHALMUSIC").info("sᴛᴏᴘᴘɪɴɢ ᴀɴɴɪᴇ ᴍᴜsɪᴄ ʙᴏᴛ ...")
+    LOGGER("VISHALMUSIC").info("sᴛᴏᴘᴘɪɴɢ  ᴍᴜsɪᴄ ʙᴏᴛ ...")
 
 
 if __name__ == "__main__":
+    # 🔹 Start the Telegram bot
     asyncio.get_event_loop().run_until_complete(init())
+
+    # 🔹 Keep-Alive Flask Webserver for Render
+    from flask import Flask
+    import threading
+    import os
+
+    app_server = Flask(__name__)
+
+    @app_server.route("/")
+    def home():
+        return "✅ VishalMusic Bot is Alive and Running!"
+
+    def run():
+        port = int(os.getenv("PORT", 8080))
+        app_server.run(host="0.0.0.0", port=port)
+
+    threading.Thread(target=run).start()
