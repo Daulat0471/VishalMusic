@@ -1,222 +1,246 @@
-🎵 Vaishali X Music – The Ultimate Telegram Music Bot ✨
+🎵✨ VAISHALI X MUSIC ✨🎵
 
-<!-- ✨ Animated Header (Top) -->
+<!-- ANIMATED HEADER -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
 
-<!-- 🎭 Premium Banner with Video -->
+<!-- PREMIUM BANNER SECTION -->
 
 <div align="center">
-  <a href="https://t.me/VaishalixMusic_Robot">
-    <video width="600" autoplay loop muted playsinline>
-      <source src="https://files.catbox.moe/qibmue.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+
+  <!-- GLOWING TITLE -->
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&height=60&lines=🎶+VAISHALI+X+MUSIC+✨;🔥+PREMIUM+TELEGRAM+BOT+🎵;🚀+ULTIMATE+MUSIC+EXPERIENCE+🎧" alt="Animated Title" />
+  </h1>
+
+  <!-- VIDEO BANNER WITH GLOW EFFECT -->
+
+  <div style="border: 3px solid #FF1493; border-radius: 20px; padding: 10px; background: linear-gradient(45deg, #000000, #1a1a1a); box-shadow: 0 0 30px #FF1493;">
+    <a href="https://t.me/VaishalixMusic_Robot">
+      <video width="650" autoplay loop muted playsinline style="border-radius: 15px;">
+        <source src="https://files.catbox.moe/qibmue.mp4" type="video/mp4">
+      </video>
+    </a>
     <br>
-    <img src="https://img.shields.io/badge/▶️-Click_to_Play_Bot-FF69B4?style=for-the-badge&logo=telegram" alt="Play Bot">
-  </a>
+    <div style="margin-top: 10px;">
+      <img src="https://img.shields.io/badge/🎧_CLICK_TO_EXPERIENCE_PREMIUM_MUSIC-FF1493?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black" alt="Experience Bot" />
+    </div>
+  </div>
 </div>
 
-<!-- 👤 Developer Intro -->
+<br>
+
+<!-- DEVELOPER INTRO WITH NEON EFFECT -->
+
+<div align="center" style="background: linear-gradient(90deg, #FF1493, #00BFFF); padding: 5px; border-radius: 25px; margin: 20px 0;">
+  <div style="background: black; padding: 15px; border-radius: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&color=00BFFF&center=true&width=500&lines=💫+CRAFTED+WITH+LOVE+BY+VISHAL+✨;🔥+PASSIONATE+DEVELOPER+💻;🎵+MUSIC+ENTHUSIAST+🎶" />
+  </div>
+</div>
+
+<!-- DYNAMIC STATS GRID -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ItsMeVishal0/VishalMusic/stargazers">
+          <img src="https://img.shields.io/badge/STARS-⭐_GOLD-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ItsMeVishal0/VishalMusic/network/members">
+          <img src="https://img.shields.io/badge/FORKS-🍴_GREEN-00FF00?style=for-the-badge&logo=git&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://komarev.com/ghpvc/?username=ItsMeVishal0">
+          <img src="https://img.shields.io/badge/VIEWS-👁️_PURPLE-8A2BE2?style=for-the-badge&logo=eyeem&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+🌟 PREMIUM FEATURES UNLEASHED
+
+<!-- FEATURES SHOWCASE -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+
+🎵 AUDIO EXCELLENCE
+
+· ✨ Studio Quality 320kbps
+· 🎧 Lag-Free Streaming
+· 🔥 High Definition Audio
+· ⚡ Instant Playback
+
+🌐 MULTI-PLATFORM
+
+· 📺 YouTube Integration
+· 🍎 Apple Music Support
+· 🎶 Spotify Compatible
+· ☁️ SoundCloud & Resso
+  
+
+🛠️ SMART FEATURES
+
+· 👮 Auto Management
+· 🎨 Elegant Interface
+· 🔒 Military Grade Security
+· 🤖 24/7 Availability
+
+🚀 PERFORMANCE
+
+· ⚡ Lightning Fast
+· 💾 Memory Optimized
+· 🔄 Auto Recovery
+· 📊 Real-time Analytics
+    </tr>
+    </table>
+
+</div>
+
+---
+
+⚙️ QUICK SETUP GUIDE
+
+<!-- CONFIGURATION CARDS -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dark+Bolt&color=00BFFF&width=600&lines=✨+Crafted+with+❤️+by+Vishal+%F0%9F%A5%80+%E2%9D%97%EF%B8%8F+✨" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ItsMeVishal0&style=flat-square&color=blueviolet" />
-  </p>
-</div>
-
-<!-- 🎯 Bot Tagline -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dark+Bolt&color=FF69B4&width=600&lines=🎶+Vaishali+X+Music+✨+The+Ultimate+Music+Experience;🚀+High+Quality+Audio+Streaming+Bot+for+Telegram" />
-</h1>
-
-<!-- 🔥 Quick Actions -->
-
-<p align="center">
-  <a href="https://t.me/VaishalixMusic_Robot">
-    <img src="https://img.shields.io/badge/🎵_Try_Vaishali_X_Music-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/stargazers">
-    <img src="https://img.shields.io/badge/⭐_Star_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/fork">
-    <img src="https://img.shields.io/badge/🍴_Fork_Repo-00AA00?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-</p>
-
-<!-- 📊 Project Stats -->
-
-<p align="center">
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/stargazers"><img src="https://img.shields.io/github/stars/ItsMeVishal0/VishalMusic?style=flat-square&color=gold"/></a>
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/network/members"><img src="https://img.shields.io/github/forks/ItsMeVishal0/VishalMusic?style=flat-square&color=green"/></a>
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/issues"><img src="https://img.shields.io/github/issues/ItsMeVishal0/VishalMusic?style=flat-square&color=orange"/></a>
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/commits/main"><img src="https://img.shields.io/github/last-commit/ItsMeVishal0/VishalMusic?style=flat-square&color=blue"/></a>
-  <a href="https://github.com/ItsMeVishal0/VishalMusic/actions"><img src="https://img.shields.io/badge/CI-Passing-brightgreen?style=flat-square"/></a>
-</p>
-
----
-
-🌟 About Vaishali X Music
-
-Vaishali X Music is a premium Telegram music streaming bot designed to deliver studio-quality audio in group voice chats. Built with Pyrogram + PyTgCalls, it supports multiple platforms and offers seamless music streaming with advanced features.
-
-🎯 Core Features
-
-<table>
-<tr>
-<td align="center">
-  <img src="https://files.catbox.moe/la0sxq.jpg" width="300" />
-</td>
-<td>
-
-🚀 Feature 💫 Description
-🎵 High Quality Audio Crystal clear 320kbps streaming
-🌐 Multi-Platform Support YouTube, Spotify, Apple Music, SoundCloud, Resso
-⚡ Lightning Fast Optimized for lag-free performance
-👮 Smart Management Built-in group management tools
-🎨 User Friendly Simple commands, elegant interface
-🔒 Privacy Focused Secure and reliable
-
-</td>
-</tr>
-</table>
-
----
-
-⚙️ Configuration Setup
-
-🔑 Required Environment Variables
+🔐 ESSENTIAL CREDENTIALS
 
 ```env
-# ======== REQUIRED ========
-API_ID=              # Get from https://my.telegram.org
-API_HASH=            # Get from https://my.telegram.org
-BOT_TOKEN=           # Create via @BotFather
-OWNER_ID=            # Your Telegram User ID
-LOGGER_ID=           # Log channel/group ID
-STRING_SESSION=      # Generate from @SessionBuilderbot
-MONGO_DB_URI=        # MongoDB connection string
-COOKIE_URL=          # YouTube cookies URL
-
-# ======== OPTIONAL ========
-DEEP_API=            # DeepAI API key
-API_KEY=             # External API key
-API_URL=             # External API URL
+API_ID=your_telegram_api_id
+API_HASH=your_telegram_api_hash  
+BOT_TOKEN=from_botfather
+STRING_SESSION=from_session_bot
+MONGO_URI=your_mongodb_connection
 ```
 
+</div>
+
 <details>
-<summary><b>📖 Detailed Setup Guide</b></summary>
+<summary><b>🎯 DEPLOYMENT OPTIONS</b></summary>
 
 <br>
 
-Key Source Steps Notes
-API_ID & API_HASH my.telegram.org API Development Tools → Create App Keep secure
-BOT_TOKEN @BotFather /newbot → Set name → Copy token Rotate if exposed
-STRING_SESSION @SessionBuilderbot Provide API details → Login → Copy Userbot session
-MONGO_DB_URI MongoDB Atlas Create cluster → Database user → Copy URI Data persistence
-COOKIE_URL Pastebin/Batbin Upload cookies.txt → Copy raw URL Improves YouTube
+<!-- DEPLOYMENT BUTTONS -->
 
-<br>
-</details>
-
----
-
-🚀 Deployment Methods
-
-☁️ One-Click Heroku Deploy
-
-<p align="center">
-  <a href="http://dashboard.heroku.com/new?template=https://github.com/ItsMeVishal0/VishalMusic">
-    <img src="https://img.shields.io/badge/Deploy_to-Heroku-430098?style=for-the-badge&logo=heroku" />
-  </a>
-</p>
-
-🐳 Docker Deployment
-
-<details>
-<summary><b>🐳 Show Docker Steps</b></summary>
-
-```bash
-# Clone repository
-git clone https://github.com/ItsMeVishal0/VishalMusic.git
-cd VishalMusic
-
-# Create environment file
-nano .env
-
-# Build and run
-docker build -t vaishali-music .
-docker run -d --name vaishali --env-file .env --restart unless-stopped vaishali-music
-
-# Monitor logs
-docker logs -f vaishali
-```
-
-</details>
-
-💻 VPS Deployment
-
-<details>
-<summary><b>💻 Show VPS Steps</b></summary>
-
-```bash
-# System setup
-sudo apt update && sudo apt upgrade -y
-sudo apt install git python3-pip ffmpeg -y
-
-# Clone and setup
-git clone https://github.com/ItsMeVishal0/VishalMusic.git
-cd VishalMusic
-python3 -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -U -r requirements.txt
-
-# Configuration
-bash setup
-bash start
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="http://dashboard.heroku.com/new?template=https://github.com/ItsMeVishal0/VishalMusic">
+          <img src="https://img.shields.io/badge/🚀_HEROKU_DEPLOY-430098?style=for-the-badge&logo=heroku&logoColor=white" width="200"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/SessionBuilderbot">
+          <img src="https://img.shields.io/badge/🔑_SESSION_BUILDER-0088cc?style=for-the-badge&logo=telegram&logoColor=white" width="200"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/🐳_DOCKER_DEPLOY-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="200"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#">
+          <img src="https://img.shields.io/badge/💻_VPS_DEPLOY-00FF00?style=for-the-badge&logo=linux&logoColor=white" width="200"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </details>
 
 ---
 
-📞 Support & Community
+📞 CONNECT WITH US
 
-<p align="center">
-  <a href="https://t.me/ItsMeVishalSupport">
-    <img src="https://img.shields.io/badge/💬_Support_Group-0088cc?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://t.me/ItsMeVishalBots">
-    <img src="https://img.shields.io/badge/📢_Updates_Channel-6A5ACD?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://t.me/Its_me_Vishall">
-    <img src="https://img.shields.io/badge/👤_Contact_Owner-4CAF50?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="https://t.me/SessionBuilderbot">
-    <img src="https://img.shields.io/badge/🔑_Session_Generator-blue?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
+<!-- SOCIAL LINKS GRID -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/ItsMeVishalSupport">
+          <img src="https://img.shields.io/badge/💬_SUPPORT_GROUP-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/ItsMeVishalBots">
+          <img src="https://img.shields.io/badge/📢_UPDATES-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://t.me/Its_me_Vishall">
+          <img src="https://img.shields.io/badge/👨‍💻_DEVELOPER-4CAF50?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://t.me/VaishalixMusic_Robot">
+          <img src="https://img.shields.io/badge/🤖_TRY_BOT-FF69B4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-💫 Final Notes
+💫 FINAL TOUCHES
 
-<p align="center">
-  <i>✨ If you enjoy this project, don't forget to give it a ⭐️!</i>
-  <br>
-  <i>🎶 Let the music play with Vaishali X Music! 🎵</i>
-</p>
+<!-- ACHIEVEMENT BADGES -->
 
-<!-- ✨ Animated Footer -->
+<div align="center">
+  <img src="https://img.shields.io/badge/✨_PREMIUM_QUALITY-FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_HIGH_PERFORMANCE-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎵_BEST_AUDIO-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💖_USER_LOVED-FF69B4?style=for-the-badge" />
+</div>
+
+<!-- CLOSING MESSAGE -->
+
+<div align="center" style="margin: 30px 0;">
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&color=FF1493&center=true&width=500&lines=🌟+EXPERIENCE+THE+FUTURE+OF+MUSIC+🌟;🎧+JOIN+THE+PREMIUM+REVOLUTION+TODAY+🎶" />
+  </h3>
+</div>
+
+<!-- ANIMATED FOOTER -->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
+
+<div align="center">
+  <p><em>✨ Crafted with passion by <a href="https://t.me/Its_me_Vishall" style="color: #FF1493; text-decoration: none;">Vishal</a> ✨</em></p>
+</div>
+
+---
+
+<div align="center">
+  <sub>🎵 <strong>Vaishali X Music</strong> - Redefining Music Experience on Telegram 🎶</sub>
+</div>
+
+<!-- GLOWING END -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
