@@ -1,5 +1,7 @@
 import asyncio
 import importlib
+import os
+from threading import Thread
 
 from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
@@ -48,7 +50,7 @@ async def init():
     for all_module in ALL_MODULES:
         importlib.import_module("VISHALMUSIC.plugins" + all_module)
 
-    LOGGER("VISHALMUSIC.plugins").info(" ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...")
+    LOGGER("VISHALMUSIC.plugins").info("ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...")
 
     await userbot.start()
     await VISHAL.start()
@@ -64,32 +66,33 @@ async def init():
         pass
 
     await VISHAL.decorators()
-    LOGGER("VISHALMUSIC").info(
-        "\x41\x6e\x6e\x69\x65\x20\x4d\x75\x73\x69\x63\x20\x52\x6f\x62\x6f\x74\x20\x53\x74\x61\x72\x74\x65\x64\x20\x53\x75\x63\x63\x65\x73\x73\x66\x75\x6c\x6c\x79\x2e\x2e\x2e"
-    )
+    LOGGER("VISHALMUSIC").info("✅ Vishal music Bot Started Successfully!")
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("VISHALMUSIC").info("sᴛᴏᴘᴘɪɴɢ  ᴍᴜsɪᴄ ʙᴏᴛ ...")
+    LOGGER("VISHALMUSIC").info("sᴛᴏᴘᴘɪɴɢ ᴍᴜsɪᴄ ʙᴏᴛ ...")
 
+
+# ----------------------🔹 Render Flask Keepalive 🔹----------------------
+
+from flask import Flask
+
+def run_flask():
+    app = Flask(__name__)
+
+    @app.route('/')
+    def home():
+        return "VISHALMUSIC Bot Running Successfully ✅"
+
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
+
+def keep_alive():
+    t = Thread(target=run_flask)
+    t.start()
+
+# ----------------------------------------------------------------------
 
 if __name__ == "__main__":
-    # 🔹 Start the Telegram bot
+    keep_alive()  # 🔥 start tiny Flask server for Render
     asyncio.get_event_loop().run_until_complete(init())
-
-    # 🔹 Keep-Alive Flask Webserver for Render
-    from flask import Flask
-    import threading
-    import os
-
-    app_server = Flask(__name__)
-
-    @app_server.route("/")
-    def home():
-        return "✅ VishalMusic Bot is Alive and Running!"
-
-    def run():
-        port = int(os.getenv("PORT", 8080))
-        app_server.run(host="0.0.0.0", port=port)
-
-    threading.Thread(target=run).start()
